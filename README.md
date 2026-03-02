@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<!--
-
-# Hi, I'm Honey Shah — Data Analyst | Business Intelligence Analyst| SQL Developer
+# I'm Honey Shah — Data Analyst | Business Intelligence Analyst| SQL Developer
 
 I build data analytics solutions that transform complex operational data into clear business decisions. My work focuses on automation, forecasting, and performance analytics using SQL, Python, and Power BI to reduce manual reporting and improve operational efficiency.
 
@@ -60,10 +58,8 @@ Machine learning pipeline analyzing sentiment trends across customer feedback da
 
 ## 🌐 Connect With Me
 
-📎 LinkedIn:(https://www.linkedin.com/in/honey-shah-585804220/) 
+📎 LinkedIn: https://www.linkedin.com/in/honey-shah-585804220/
 
-🌐 Portfolio Website:
+🌐 Portfolio Website: https://shahhoneyyy.github.io/HoneyShah.github.io/
 
 📧 Email: honeyshah872@gmail.com
-
--->
