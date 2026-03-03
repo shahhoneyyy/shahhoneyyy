@@ -45,14 +45,6 @@ I specialize in end-to-end analytics workflows — from data extraction and mode
 
 ## 🚀 Featured Projects
 
-🔹 Emergency Response Demand Forecasting  
-Time-series forecasting pipeline predicting 911 call demand with interactive dashboards.
-
-🔹 Retail Sales Forecasting & KPI Dashboard  
-Automated reporting and forecasting system integrating SQL, Python, and Power BI.
-
-🔹 Customer Feedback NLP Sentiment Analyzer  
-Machine learning pipeline analyzing sentiment trends across customer feedback data.
 
 ---
 
